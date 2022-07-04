@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * main - Entry point
+ * main - entry point
  *
- * Description: 'printing with ptintf'
+ * description: 'printing with ptintf'
  *
  * Return: Always 0 (Success)
 */
