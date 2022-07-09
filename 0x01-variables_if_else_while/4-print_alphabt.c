@@ -9,11 +9,11 @@
 int main(void)
 {
 int ch;
-for (ch = 97; ch = 122 ; ch++)
+for (ch = 97; ch <= 122 ; ch++)
 {
-for (ch != 101 ; ch != 113 ;)
+if (ch != 101 && ch != 113)
 	putchar(ch);
-putchar('\n');
 }
+putchar('\n');
 return (0);
 }
