@@ -12,4 +12,5 @@ for (i = n - 1; 1 >= 0; i--)
 {
 	_putchar(s[i]);
 }
+return (0);
 }
