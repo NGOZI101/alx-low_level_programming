@@ -12,14 +12,7 @@ int _strlen(char *s);
 int main ( )
 {
 	char *x = "Hello World";
-	char *s = &x;
-
-int len;
-	for (; *s != '\0'; s++)
-	{
-		len += 1;
-		s++;
-	}
-	printf("%d\n", strlen(x));
+	
+	printf("%c\n", x[4]);
 	return (0);
 }
