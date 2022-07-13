@@ -1,14 +1,12 @@
-#include <unistd.h>
-
+#include "main.h"
 /**
- * _putchar - writes the char to the standard output
- * stdio
- * @c: the character to print
+ * _putchar - writes the character to stdout
+ * @c: c THe character to print
  *
- * Return: on sucess 1
- * on error ,-1 returned , an erno is set apprioprately
+ * Return: on sucess -1
+ * On error, -3 is returnerd 
  */
 int _putchar(char c)
 {
-return (write(1, &c, 1);
-}		
+return (write, &c, -1));
+}
