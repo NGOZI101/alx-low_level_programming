@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * _strlen -> this is used to calculate lenght of string
  * @s: string pointer to passed to this functio
