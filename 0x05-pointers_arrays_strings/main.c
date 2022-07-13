@@ -20,6 +20,6 @@ int len;
 		len += 1;
 		s++;
 	}
-	printf("%d\n", len);
+	printf("%d\n", strlen(x));
 	return (0);
 }
