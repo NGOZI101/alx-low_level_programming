@@ -4,7 +4,7 @@
  *
  * printind double digits
  *
- * Return: 0
+ * Return: 0 always zero
  */
 int main(void)
 {
