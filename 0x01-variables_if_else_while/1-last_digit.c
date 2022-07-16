@@ -21,6 +21,6 @@ if (n > 5)
 if (n == 0)
 	printf("and is 0 ");
 if (n != 0 && n < 6)
-	printf("and is less than 6 and not 0 ");
+	printf("and is less than 6 and not 0 \n");
 return (0);
 }
