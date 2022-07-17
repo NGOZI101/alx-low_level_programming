@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * main - entry point
- * program doesnt use the stdio.h 
+ * program prints putchar using _putchar finction described in
+ * main.h on my local drive
  * instead its using the main.h from my local device'
  *Return: 'exits the code'
 */
