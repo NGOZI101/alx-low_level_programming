@@ -4,9 +4,10 @@
  *
  *Return:return the lowercase character. return 1 and 0
  *depending on conditions
- *c -> variable
+ *@c: variable
  */
 int _islower(int c)
 {
-	return (c >= 'a' && c <= 'z');
+int c;
+return (c >= 'a' && c <= 'z');
 }
